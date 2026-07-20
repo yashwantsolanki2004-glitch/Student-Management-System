@@ -1,2 +1,15 @@
-# Student-Management-System
-A simple Student Management System using python.
+# Student Management System
+
+A simple Student Management System built using Python.
+
+## Features
+- Add Student
+- View Students
+- Search Student
+- Delete Student
+
+## Technologies Used
+- Python
+
+## Author
+Yashvant Solanki
