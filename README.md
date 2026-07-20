@@ -1,2 +1,2 @@
 # Student-Management-System
-A python based student management system using file handli
+A simple Student Management System using python.
